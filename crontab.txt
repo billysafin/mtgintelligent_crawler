@@ -1,0 +1,5 @@
+  0  */6  *  *  * billy /var/www/crawlers/spider_six_hour.sh
+  0  0  *  *  * billy  /home/billy/pipUpdate.sh
+  0  2  *  *  7 billy /var/www/crawlers/weekly_batch.sh
+  0  2  1  *  * billy /var/www/crawlers/monthly_batch.sh
+  30 */3 * * * billy /var/www/crawlers/stats_three_half.sh
